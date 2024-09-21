@@ -12,4 +12,4 @@ Those interested in data-visualisation, network and graph creation, rail and pub
 
 The slides from the talk can be downloaded [here](LeedsDigi2023-Slides-final.pdf)
 
-A recording of the talk can be downloaded [here](Ca-train-pour-moi.mp4) and is available on YouTube [here](https://www.youtube.com/watch?v=xFLuUO3YBBE)
+A recording of the talk is [available on YouTube](https://youtu.be/xFLuUO3YBBE).
